@@ -1,0 +1,12 @@
+{
+  "ID": "8a924864c97c48fcaad3fb7aeea2ea46",
+  "ActionKeyword": "kz",
+  "Name": "Komposerizer",
+  "Description": "Composerize plugin for Flow Launcher. Converts docker run commands to docker compose text.",
+  "Author": "jtabox",
+  "Version": "0.1",
+  "Language": "javascript",
+  "Website": "https://github.com/jtabox/komposerizer",
+  "ExecuteFileName": "main.js",
+  "IcoPath": "Images\\app.png"
+}

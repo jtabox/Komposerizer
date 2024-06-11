@@ -1,0 +1,7 @@
+{
+  "name": "Komposerizer",
+  "dependencies": {
+    "composerize": "^1.6.10",
+    "open": "^8.4.0"
+  }
+}
